@@ -36,7 +36,6 @@ Python tests located in src/python_testing
 -   Use Mobly assertions for failing tests
 -   self.step() along with a steps\_ function to mark test plan steps for cert
     tests
--
 
 ### A simple test
 
